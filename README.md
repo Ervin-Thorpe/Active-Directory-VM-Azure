@@ -19,8 +19,8 @@ This will be found below.
 
 - 🛠️ Part 1: Focusing on deploying the Active Directory on a Virtual Machine through Microsoft Azure
   - [Project Link: Deployment of an Active Directory on VMs via Azure](https://github.com/Ervin-Thorpe/Active-Directory-Deployment)
-- ⚙️ Part 2: Focusing on configuring and managing DNS through our Virtual Machines made through Microsoft Azure
-  - [Project Link: Configuration and Management of an Active Directory]()
+- ⚙️ Part 2: Focusing on managing DNS through our Virtual Machines made through Microsoft Azure
+  - [Project Link: Configuration and Management of an Active Directory](https://github.com/Ervin-Thorpe/Active-Directory-DNS-Management)
 - 🏢 Part 3: Focusing on simulating real-life business structure for an Active Directory on Windows Server 2022
   - [Project Link: Simulating Real-Life Active Directory Business Structure](Work in Progress)
 
