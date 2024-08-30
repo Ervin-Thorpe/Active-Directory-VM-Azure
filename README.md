@@ -1,5 +1,10 @@
 <h2>On-Premise Active Directory using Windows 10 and Windows Server Virtual Machines on Microsoft Azure</h2>
-In this project, I successfully deployed an on-premises Active Directory environment using Microsoft Azure Virtual Machines and managed DNS services to improve network functionality.
+In this project, I successfully deployed an on-premises Active Directory environment using Microsoft Azure Virtual Machines, applied network administration and managed DNS services to improve network functionality.
+<br />
+<br />
+<p align="center">
+<img src="/AD-Structure.jpg" height="80%" width="80%"/>
+</p>
 
 <h2>4-Part Project</h2>
 
