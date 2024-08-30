@@ -8,7 +8,8 @@ Due to the depth of the project, it's been broken down into 3 parts:
 
   - 🛠️ Active Directory Deployment
   - ⚙️ DNS Configurations and Management
-  - 🏢 Simulating Real-Life Business Structure
+  - 📈 Expansion and Further Management
+  - 📜 Creating GPO (Group Policies)
 
 <br />
 This will be found below.
@@ -17,12 +18,15 @@ This will be found below.
 
 <h2>Links to the Different Parts of Project</h2>
 
-- 🛠️ Part 1: Focusing on deploying the Active Directory on a Virtual Machine through Microsoft Azure
+- 🛠️ Part 1: Deploying the Active Directory on a Virtual Machine through Microsoft Azure
   - [Project Link: Deployment of an Active Directory on VMs via Azure](https://github.com/Ervin-Thorpe/Active-Directory-Deployment)
-- ⚙️ Part 2: Focusing on managing DNS through our Virtual Machines made through Microsoft Azure
+- ⚙️ Part 2: Managing DNS through our Virtual Machines made through Microsoft Azure
   - [Project Link: Configuration and Management of an Active Directory](https://github.com/Ervin-Thorpe/Active-Directory-DNS-Management)
-- 🏢 Part 3: Focusing on simulating real-life business structure for an Active Directory on Windows Server 2022
+- 🏢 Part 3: Expanding and Further Management of the Active Directory on Windows Server 2022
   - [Project Link: Simulating Real-Life Active Directory Business Structure](Work in Progress)
+- 📜 Part 4: Understanding and Creating GPO (Group Policies) on Windows Server 2022
+  - [Project Link: Simulating Real-Life Active Directory Business Structure](Work in Progress)
+
 
 <h2>Technologies Used</h2>
 
