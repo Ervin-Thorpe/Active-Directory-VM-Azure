@@ -1,4 +1,4 @@
-<h2>On-Premise Active Directory using Windows 10 and Windows Server Virtual Machines on Microsoft Azure</h2>
+<h2>Active Directory using Windows Server 2022 and Windows 10 VMs on Microsoft Azure</h2>
 In this project, I successfully deployed an on-premises Active Directory environment using Microsoft Azure Virtual Machines, applied network administration and managed DNS services to improve network functionality.
 <br />
 <br />
